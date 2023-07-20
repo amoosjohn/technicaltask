@@ -9,3 +9,8 @@
 - Run __php artisan queue:listen (To run jobs for email)
 - That's it: launch the main URL. 
 - You can go to listing page  by going go on `/list` URL
+
+## Requirement
+- For Laravel Framework 10.15.0
+- PHP Version 8.1
+- MYSQL Version 8.0.31
